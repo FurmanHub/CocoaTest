@@ -1,0 +1,2734 @@
+[
+  {
+    "alpha3Code": "AFG",
+    "alpha2Code": "AF",
+    "name": "Afghanistan",
+    "callingCodes": [
+      "93"
+    ],
+    "numericCode": "004",
+    "callingCode": "93",
+    "flag": "AF-32.png"
+  },
+  {
+    "alpha3Code": "ALA",
+    "alpha2Code": "AX",
+    "name": "Åland Islands",
+    "callingCodes": [
+      "358"
+    ],
+    "numericCode": "248",
+    "callingCode": "358",
+    "flag": "AX-32.png"
+  },
+  {
+    "alpha3Code": "ALB",
+    "alpha2Code": "AL",
+    "name": "Albania",
+    "callingCodes": [
+      "355"
+    ],
+    "numericCode": "008",
+    "callingCode": "355",
+    "flag": "AL-32.png"
+  },
+  {
+    "alpha3Code": "DZA",
+    "alpha2Code": "DZ",
+    "name": "Algeria",
+    "callingCodes": [
+      "213"
+    ],
+    "numericCode": "012",
+    "callingCode": "213",
+    "flag": "DZ-32.png"
+  },
+  {
+    "alpha3Code": "ASM",
+    "alpha2Code": "AS",
+    "name": "American Samoa",
+    "callingCodes": [
+      "1684"
+    ],
+    "numericCode": "016",
+    "callingCode": "1684",
+    "flag": "AS-32.png"
+  },
+  {
+    "alpha3Code": "AND",
+    "alpha2Code": "AD",
+    "name": "Andorra",
+    "callingCodes": [
+      "376"
+    ],
+    "numericCode": "020",
+    "callingCode": "376",
+    "flag": "AD-32.png"
+  },
+  {
+    "alpha3Code": "AGO",
+    "alpha2Code": "AO",
+    "name": "Angola",
+    "callingCodes": [
+      "244"
+    ],
+    "numericCode": "024",
+    "callingCode": "244",
+    "flag": "AO-32.png"
+  },
+  {
+    "alpha3Code": "AIA",
+    "alpha2Code": "AI",
+    "name": "Anguilla",
+    "callingCodes": [
+      "1264"
+    ],
+    "numericCode": "660",
+    "callingCode": "1264",
+    "flag": "AI-32.png"
+  },
+  {
+    "alpha3Code": "ATA",
+    "alpha2Code": "AQ",
+    "name": "Antarctica",
+    "callingCodes": [
+      "672"
+    ],
+    "numericCode": "010",
+    "callingCode": "672",
+    "flag": "AQ-32.png"
+  },
+  {
+    "alpha3Code": "ATG",
+    "alpha2Code": "AG",
+    "name": "Antigua and Barbuda",
+    "callingCodes": [
+      "1268"
+    ],
+    "numericCode": "028",
+    "callingCode": "1268",
+    "flag": "AG-32.png"
+  },
+  {
+    "alpha3Code": "ARG",
+    "alpha2Code": "AR",
+    "name": "Argentina",
+    "callingCodes": [
+      "54"
+    ],
+    "numericCode": "032",
+    "callingCode": "54",
+    "flag": "AR-32.png"
+  },
+  {
+    "alpha3Code": "ARM",
+    "alpha2Code": "AM",
+    "name": "Armenia",
+    "callingCodes": [
+      "374"
+    ],
+    "numericCode": "051",
+    "callingCode": "374",
+    "flag": "AM-32.png"
+  },
+  {
+    "alpha3Code": "ABW",
+    "alpha2Code": "AW",
+    "name": "Aruba",
+    "callingCodes": [
+      "297"
+    ],
+    "numericCode": "533",
+    "callingCode": "297",
+    "flag": "AW-32.png"
+  },
+  {
+    "alpha3Code": "AUS",
+    "alpha2Code": "AU",
+    "name": "Australia",
+    "callingCodes": [
+      "61"
+    ],
+    "numericCode": "036",
+    "callingCode": "61",
+    "flag": "AU-32.png"
+  },
+  {
+    "alpha3Code": "AUT",
+    "alpha2Code": "AT",
+    "name": "Austria",
+    "callingCodes": [
+      "43"
+    ],
+    "numericCode": "040",
+    "callingCode": "43",
+    "flag": "AT-32.png"
+  },
+  {
+    "alpha3Code": "AZE",
+    "alpha2Code": "AZ",
+    "name": "Azerbaijan",
+    "callingCodes": [
+      "994"
+    ],
+    "numericCode": "031",
+    "callingCode": "994",
+    "flag": "AZ-32.png"
+  },
+  {
+    "alpha3Code": "BHS",
+    "alpha2Code": "BS",
+    "name": "Bahamas",
+    "callingCodes": [
+      "1242"
+    ],
+    "numericCode": "044",
+    "callingCode": "1242",
+    "flag": "BS-32.png"
+  },
+  {
+    "alpha3Code": "BHR",
+    "alpha2Code": "BH",
+    "name": "Bahrain",
+    "callingCodes": [
+      "973"
+    ],
+    "numericCode": "048",
+    "callingCode": "973",
+    "flag": "BH-32.png"
+  },
+  {
+    "alpha3Code": "BGD",
+    "alpha2Code": "BD",
+    "name": "Bangladesh",
+    "callingCodes": [
+      "880"
+    ],
+    "numericCode": "050",
+    "callingCode": "880",
+    "flag": "BD-32.png"
+  },
+  {
+    "alpha3Code": "BRB",
+    "alpha2Code": "BB",
+    "name": "Barbados",
+    "callingCodes": [
+      "1246"
+    ],
+    "numericCode": "052",
+    "callingCode": "1246",
+    "flag": "BB-32.png"
+  },
+  {
+    "alpha3Code": "BLR",
+    "alpha2Code": "BY",
+    "name": "Belarus",
+    "callingCodes": [
+      "375"
+    ],
+    "numericCode": "112",
+    "callingCode": "375",
+    "flag": "BY-32.png"
+  },
+  {
+    "alpha3Code": "BEL",
+    "alpha2Code": "BE",
+    "name": "Belgium",
+    "callingCodes": [
+      "32"
+    ],
+    "numericCode": "056",
+    "callingCode": "32",
+    "flag": "BE-32.png"
+  },
+  {
+    "alpha3Code": "BLZ",
+    "alpha2Code": "BZ",
+    "name": "Belize",
+    "callingCodes": [
+      "501"
+    ],
+    "numericCode": "084",
+    "callingCode": "501",
+    "flag": "BZ-32.png"
+  },
+  {
+    "alpha3Code": "BEN",
+    "alpha2Code": "BJ",
+    "name": "Benin",
+    "callingCodes": [
+      "229"
+    ],
+    "numericCode": "204",
+    "callingCode": "229",
+    "flag": "BJ-32.png"
+  },
+  {
+    "alpha3Code": "BMU",
+    "alpha2Code": "BM",
+    "name": "Bermuda",
+    "callingCodes": [
+      "1441"
+    ],
+    "numericCode": "060",
+    "callingCode": "1441",
+    "flag": "BM-32.png"
+  },
+  {
+    "alpha3Code": "BTN",
+    "alpha2Code": "BT",
+    "name": "Bhutan",
+    "callingCodes": [
+      "975"
+    ],
+    "numericCode": "064",
+    "callingCode": "975",
+    "flag": "BT-32.png"
+  },
+  {
+    "alpha3Code": "BOL",
+    "alpha2Code": "BO",
+    "name": "Bolivia (Plurinational State of)",
+    "callingCodes": [
+      "591"
+    ],
+    "numericCode": "068",
+    "callingCode": "591",
+    "flag": "BO-32.png"
+  },
+  {
+    "alpha3Code": "BES",
+    "alpha2Code": "BQ",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "callingCodes": [
+      "5997"
+    ],
+    "numericCode": "535",
+    "callingCode": "5997",
+    "flag": "BQ-32.png"
+  },
+  {
+    "alpha3Code": "BIH",
+    "alpha2Code": "BA",
+    "name": "Bosnia and Herzegovina",
+    "callingCodes": [
+      "387"
+    ],
+    "numericCode": "070",
+    "callingCode": "387",
+    "flag": "BA-32.png"
+  },
+  {
+    "alpha3Code": "BWA",
+    "alpha2Code": "BW",
+    "name": "Botswana",
+    "callingCodes": [
+      "267"
+    ],
+    "numericCode": "072",
+    "callingCode": "267",
+    "flag": "BW-32.png"
+  },
+  {
+    "alpha3Code": "BVT",
+    "alpha2Code": "BV",
+    "name": "Bouvet Island",
+    "callingCodes": [
+      "55"
+    ],
+    "numericCode": "074",
+    "callingCode": "55",
+    "flag": "BV-32.png"
+  },
+  {
+    "alpha3Code": "BRA",
+    "alpha2Code": "BR",
+    "name": "Brazil",
+    "callingCodes": [
+      "55"
+    ],
+    "numericCode": "076",
+    "callingCode": "55",
+    "flag": "BR-32.png"
+  },
+  {
+    "alpha3Code": "IOT",
+    "alpha2Code": "IO",
+    "name": "British Indian Ocean Territory",
+    "callingCodes": [
+      "246"
+    ],
+    "numericCode": "086",
+    "callingCode": "246",
+    "flag": "IO-32.png"
+  },
+  {
+    "alpha3Code": "VGB",
+    "alpha2Code": "VG",
+    "name": "Virgin Islands (British)",
+    "callingCodes": [
+      "1284"
+    ],
+    "numericCode": "092",
+    "callingCode": "1284",
+    "flag": "VG-32.png"
+  },
+  {
+    "alpha3Code": "VIR",
+    "alpha2Code": "VI",
+    "name": "Virgin Islands (U.S.)",
+    "callingCodes": [
+      "1340"
+    ],
+    "numericCode": "850",
+    "callingCode": "1340",
+    "flag": "VI-32.png"
+  },
+  {
+    "alpha3Code": "BRN",
+    "alpha2Code": "BN",
+    "name": "Brunei Darussalam",
+    "callingCodes": [
+      "673"
+    ],
+    "numericCode": "096",
+    "callingCode": "673",
+    "flag": "BN-32.png"
+  },
+  {
+    "alpha3Code": "BGR",
+    "alpha2Code": "BG",
+    "name": "Bulgaria",
+    "callingCodes": [
+      "359"
+    ],
+    "numericCode": "100",
+    "callingCode": "359",
+    "flag": "BG-32.png"
+  },
+  {
+    "alpha3Code": "BFA",
+    "alpha2Code": "BF",
+    "name": "Burkina Faso",
+    "callingCodes": [
+      "226"
+    ],
+    "numericCode": "854",
+    "callingCode": "226",
+    "flag": "BF-32.png"
+  },
+  {
+    "alpha3Code": "BDI",
+    "alpha2Code": "BI",
+    "name": "Burundi",
+    "callingCodes": [
+      "257"
+    ],
+    "numericCode": "108",
+    "callingCode": "257",
+    "flag": "BI-32.png"
+  },
+  {
+    "alpha3Code": "KHM",
+    "alpha2Code": "KH",
+    "name": "Cambodia",
+    "callingCodes": [
+      "855"
+    ],
+    "numericCode": "116",
+    "callingCode": "855",
+    "flag": "KH-32.png"
+  },
+  {
+    "alpha3Code": "CMR",
+    "alpha2Code": "CM",
+    "name": "Cameroon",
+    "callingCodes": [
+      "237"
+    ],
+    "numericCode": "120",
+    "callingCode": "237",
+    "flag": "CM-32.png"
+  },
+  {
+    "alpha3Code": "CAN",
+    "alpha2Code": "CA",
+    "name": "Canada",
+    "callingCodes": [
+      "1"
+    ],
+    "numericCode": "124",
+    "callingCode": "1",
+    "flag": "CA-32.png"
+  },
+  {
+    "alpha3Code": "CPV",
+    "alpha2Code": "CV",
+    "name": "Cabo Verde",
+    "callingCodes": [
+      "238"
+    ],
+    "numericCode": "132",
+    "callingCode": "238",
+    "flag": "CV-32.png"
+  },
+  {
+    "alpha3Code": "CYM",
+    "alpha2Code": "KY",
+    "name": "Cayman Islands",
+    "callingCodes": [
+      "1345"
+    ],
+    "numericCode": "136",
+    "callingCode": "1345",
+    "flag": "KY-32.png"
+  },
+  {
+    "alpha3Code": "CAF",
+    "alpha2Code": "CF",
+    "name": "Central African Republic",
+    "callingCodes": [
+      "236"
+    ],
+    "numericCode": "140",
+    "callingCode": "236",
+    "flag": "CF-32.png"
+  },
+  {
+    "alpha3Code": "TCD",
+    "alpha2Code": "TD",
+    "name": "Chad",
+    "callingCodes": [
+      "235"
+    ],
+    "numericCode": "148",
+    "callingCode": "235",
+    "flag": "TD-32.png"
+  },
+  {
+    "alpha3Code": "CHL",
+    "alpha2Code": "CL",
+    "name": "Chile",
+    "callingCodes": [
+      "56"
+    ],
+    "numericCode": "152",
+    "callingCode": "56",
+    "flag": "CL-32.png"
+  },
+  {
+    "alpha3Code": "CHN",
+    "alpha2Code": "CN",
+    "name": "China",
+    "callingCodes": [
+      "86"
+    ],
+    "numericCode": "156",
+    "callingCode": "86",
+    "flag": "CN-32.png"
+  },
+  {
+    "alpha3Code": "CXR",
+    "alpha2Code": "CX",
+    "name": "Christmas Island",
+    "callingCodes": [
+      "61"
+    ],
+    "numericCode": "162",
+    "callingCode": "61",
+    "flag": "CX-32.png"
+  },
+  {
+    "alpha3Code": "CCK",
+    "alpha2Code": "CC",
+    "name": "Cocos (Keeling) Islands",
+    "callingCodes": [
+      "61"
+    ],
+    "numericCode": "166",
+    "callingCode": "61",
+    "flag": "CC-32.png"
+  },
+  {
+    "alpha3Code": "COL",
+    "alpha2Code": "CO",
+    "name": "Colombia",
+    "callingCodes": [
+      "57"
+    ],
+    "numericCode": "170",
+    "callingCode": "57",
+    "flag": "CO-32.png"
+  },
+  {
+    "alpha3Code": "COM",
+    "alpha2Code": "KM",
+    "name": "Comoros",
+    "callingCodes": [
+      "269"
+    ],
+    "numericCode": "174",
+    "callingCode": "269",
+    "flag": "KM-32.png"
+  },
+  {
+    "alpha3Code": "COG",
+    "alpha2Code": "CG",
+    "name": "Congo",
+    "callingCodes": [
+      "242"
+    ],
+    "numericCode": "178",
+    "callingCode": "242",
+    "flag": "CG-32.png"
+  },
+  {
+    "alpha3Code": "COD",
+    "alpha2Code": "CD",
+    "name": "Congo (Democratic Republic of the)",
+    "callingCodes": [
+      "243"
+    ],
+    "numericCode": "180",
+    "callingCode": "243",
+    "flag": "https://restcountries.eu/data/cod.svg"
+  },
+  {
+    "alpha3Code": "COK",
+    "alpha2Code": "CK",
+    "name": "Cook Islands",
+    "callingCodes": [
+      "682"
+    ],
+    "numericCode": "184",
+    "callingCode": "682",
+    "flag": "CK-32.png"
+  },
+  {
+    "alpha3Code": "CRI",
+    "alpha2Code": "CR",
+    "name": "Costa Rica",
+    "callingCodes": [
+      "506"
+    ],
+    "numericCode": "188",
+    "callingCode": "506",
+    "flag": "CR-32.png"
+  },
+  {
+    "alpha3Code": "HRV",
+    "alpha2Code": "HR",
+    "name": "Croatia",
+    "callingCodes": [
+      "385"
+    ],
+    "numericCode": "191",
+    "callingCode": "385",
+    "flag": "HR-32.png"
+  },
+  {
+    "alpha3Code": "CUB",
+    "alpha2Code": "CU",
+    "name": "Cuba",
+    "callingCodes": [
+      "53"
+    ],
+    "numericCode": "192",
+    "callingCode": "53",
+    "flag": "CU-32.png"
+  },
+  {
+    "alpha3Code": "CUW",
+    "alpha2Code": "CW",
+    "name": "Curaçao",
+    "callingCodes": [
+      "599"
+    ],
+    "numericCode": "531",
+    "callingCode": "599",
+    "flag": "CW-32.png"
+  },
+  {
+    "alpha3Code": "CYP",
+    "alpha2Code": "CY",
+    "name": "Cyprus",
+    "callingCodes": [
+      "357"
+    ],
+    "numericCode": "196",
+    "callingCode": "357",
+    "flag": "CY-32.png"
+  },
+  {
+    "alpha3Code": "CZE",
+    "alpha2Code": "CZ",
+    "name": "Czech Republic",
+    "callingCodes": [
+      "420"
+    ],
+    "numericCode": "203",
+    "callingCode": "420",
+    "flag": "CZ-32.png"
+  },
+  {
+    "alpha3Code": "DNK",
+    "alpha2Code": "DK",
+    "name": "Denmark",
+    "callingCodes": [
+      "45"
+    ],
+    "numericCode": "208",
+    "callingCode": "45",
+    "flag": "DK-32.png"
+  },
+  {
+    "alpha3Code": "DJI",
+    "alpha2Code": "DJ",
+    "name": "Djibouti",
+    "callingCodes": [
+      "253"
+    ],
+    "numericCode": "262",
+    "callingCode": "253",
+    "flag": "DJ-32.png"
+  },
+  {
+    "alpha3Code": "DMA",
+    "alpha2Code": "DM",
+    "name": "Dominica",
+    "callingCodes": [
+      "1767"
+    ],
+    "numericCode": "212",
+    "callingCode": "1767",
+    "flag": "DM-32.png"
+  },
+  {
+    "alpha3Code": "DOM",
+    "alpha2Code": "DO",
+    "name": "Dominican Republic",
+    "callingCodes": [
+      "1809",
+      "1829",
+      "1849"
+    ],
+    "numericCode": "214",
+    "callingCode": "1809",
+    "flag": "DO-32.png"
+  },
+  {
+    "alpha3Code": "ECU",
+    "alpha2Code": "EC",
+    "name": "Ecuador",
+    "callingCodes": [
+      "593"
+    ],
+    "numericCode": "218",
+    "callingCode": "593",
+    "flag": "EC-32.png"
+  },
+  {
+    "alpha3Code": "EGY",
+    "alpha2Code": "EG",
+    "name": "Egypt",
+    "callingCodes": [
+      "20"
+    ],
+    "numericCode": "818",
+    "callingCode": "20",
+    "flag": "EG-32.png"
+  },
+  {
+    "alpha3Code": "SLV",
+    "alpha2Code": "SV",
+    "name": "El Salvador",
+    "callingCodes": [
+      "503"
+    ],
+    "numericCode": "222",
+    "callingCode": "503",
+    "flag": "SV-32.png"
+  },
+  {
+    "alpha3Code": "GNQ",
+    "alpha2Code": "GQ",
+    "name": "Equatorial Guinea",
+    "callingCodes": [
+      "240"
+    ],
+    "numericCode": "226",
+    "callingCode": "240",
+    "flag": "GQ-32.png"
+  },
+  {
+    "alpha3Code": "ERI",
+    "alpha2Code": "ER",
+    "name": "Eritrea",
+    "callingCodes": [
+      "291"
+    ],
+    "numericCode": "232",
+    "callingCode": "291",
+    "flag": "ER-32.png"
+  },
+  {
+    "alpha3Code": "EST",
+    "alpha2Code": "EE",
+    "name": "Estonia",
+    "callingCodes": [
+      "372"
+    ],
+    "numericCode": "233",
+    "callingCode": "372",
+    "flag": "EE-32.png"
+  },
+  {
+    "alpha3Code": "ETH",
+    "alpha2Code": "ET",
+    "name": "Ethiopia",
+    "callingCodes": [
+      "251"
+    ],
+    "numericCode": "231",
+    "callingCode": "251",
+    "flag": "ET-32.png"
+  },
+  {
+    "alpha3Code": "FLK",
+    "alpha2Code": "FK",
+    "name": "Falkland Islands (Malvinas)",
+    "callingCodes": [
+      "500"
+    ],
+    "numericCode": "238",
+    "callingCode": "500",
+    "flag": "FK-32.png"
+  },
+  {
+    "alpha3Code": "FRO",
+    "alpha2Code": "FO",
+    "name": "Faroe Islands",
+    "callingCodes": [
+      "298"
+    ],
+    "numericCode": "234",
+    "callingCode": "298",
+    "flag": "FO-32.png"
+  },
+  {
+    "alpha3Code": "FJI",
+    "alpha2Code": "FJ",
+    "name": "Fiji",
+    "callingCodes": [
+      "679"
+    ],
+    "numericCode": "242",
+    "callingCode": "679",
+    "flag": "FJ-32.png"
+  },
+  {
+    "alpha3Code": "FIN",
+    "alpha2Code": "FI",
+    "name": "Finland",
+    "callingCodes": [
+      "358"
+    ],
+    "numericCode": "246",
+    "callingCode": "358",
+    "flag": "FI-32.png"
+  },
+  {
+    "alpha3Code": "FRA",
+    "alpha2Code": "FR",
+    "name": "France",
+    "callingCodes": [
+      "33"
+    ],
+    "numericCode": "250",
+    "callingCode": "33",
+    "flag": "FR-32.png"
+  },
+  {
+    "alpha3Code": "GUF",
+    "alpha2Code": "GF",
+    "name": "French Guiana",
+    "callingCodes": [
+      "594"
+    ],
+    "numericCode": "254",
+    "callingCode": "594",
+    "flag": "GF-32.png"
+  },
+  {
+    "alpha3Code": "PYF",
+    "alpha2Code": "PF",
+    "name": "French Polynesia",
+    "callingCodes": [
+      "689"
+    ],
+    "numericCode": "258",
+    "callingCode": "689",
+    "flag": "PF-32.png"
+  },
+  {
+    "alpha3Code": "ATF",
+    "alpha2Code": "TF",
+    "name": "French Southern Territories",
+    "callingCodes": [
+      "262"
+    ],
+    "numericCode": "260",
+    "callingCode": "262",
+    "flag": "TF-32.png"
+  },
+  {
+    "alpha3Code": "GAB",
+    "alpha2Code": "GA",
+    "name": "Gabon",
+    "callingCodes": [
+      "241"
+    ],
+    "numericCode": "266",
+    "callingCode": "241",
+    "flag": "GA-32.png"
+  },
+  {
+    "alpha3Code": "GMB",
+    "alpha2Code": "GM",
+    "name": "Gambia",
+    "callingCodes": [
+      "220"
+    ],
+    "numericCode": "270",
+    "callingCode": "220",
+    "flag": "GM-32.png"
+  },
+  {
+    "alpha3Code": "GEO",
+    "alpha2Code": "GE",
+    "name": "Georgia",
+    "callingCodes": [
+      "995"
+    ],
+    "numericCode": "268",
+    "callingCode": "995",
+    "flag": "GE-32.png"
+  },
+  {
+    "alpha3Code": "DEU",
+    "alpha2Code": "DE",
+    "name": "Germany",
+    "callingCodes": [
+      "49"
+    ],
+    "numericCode": "276",
+    "callingCode": "49",
+    "flag": "DE-32.png"
+  },
+  {
+    "alpha3Code": "GHA",
+    "alpha2Code": "GH",
+    "name": "Ghana",
+    "callingCodes": [
+      "233"
+    ],
+    "numericCode": "288",
+    "callingCode": "233",
+    "flag": "GH-32.png"
+  },
+  {
+    "alpha3Code": "GIB",
+    "alpha2Code": "GI",
+    "name": "Gibraltar",
+    "callingCodes": [
+      "350"
+    ],
+    "numericCode": "292",
+    "callingCode": "350",
+    "flag": "GI-32.png"
+  },
+  {
+    "alpha3Code": "GRC",
+    "alpha2Code": "GR",
+    "name": "Greece",
+    "callingCodes": [
+      "30"
+    ],
+    "numericCode": "300",
+    "callingCode": "30",
+    "flag": "GR-32.png"
+  },
+  {
+    "alpha3Code": "GRL",
+    "alpha2Code": "GL",
+    "name": "Greenland",
+    "callingCodes": [
+      "299"
+    ],
+    "numericCode": "304",
+    "callingCode": "299",
+    "flag": "GL-32.png"
+  },
+  {
+    "alpha3Code": "GRD",
+    "alpha2Code": "GD",
+    "name": "Grenada",
+    "callingCodes": [
+      "1473"
+    ],
+    "numericCode": "308",
+    "callingCode": "1473",
+    "flag": "GD-32.png"
+  },
+  {
+    "alpha3Code": "GLP",
+    "alpha2Code": "GP",
+    "name": "Guadeloupe",
+    "callingCodes": [
+      "590"
+    ],
+    "numericCode": "312",
+    "callingCode": "590",
+    "flag": "GP-32.png"
+  },
+  {
+    "alpha3Code": "GUM",
+    "alpha2Code": "GU",
+    "name": "Guam",
+    "callingCodes": [
+      "1671"
+    ],
+    "numericCode": "316",
+    "callingCode": "1671",
+    "flag": "GU-32.png"
+  },
+  {
+    "alpha3Code": "GTM",
+    "alpha2Code": "GT",
+    "name": "Guatemala",
+    "callingCodes": [
+      "502"
+    ],
+    "numericCode": "320",
+    "callingCode": "502",
+    "flag": "GT-32.png"
+  },
+  {
+    "alpha3Code": "GGY",
+    "alpha2Code": "GG",
+    "name": "Guernsey",
+    "callingCodes": [
+      "44"
+    ],
+    "numericCode": "831",
+    "callingCode": "44",
+    "flag": "GG-32.png"
+  },
+  {
+    "alpha3Code": "GIN",
+    "alpha2Code": "GN",
+    "name": "Guinea",
+    "callingCodes": [
+      "224"
+    ],
+    "numericCode": "324",
+    "callingCode": "224",
+    "flag": "GN-32.png"
+  },
+  {
+    "alpha3Code": "GNB",
+    "alpha2Code": "GW",
+    "name": "Guinea-Bissau",
+    "callingCodes": [
+      "245"
+    ],
+    "numericCode": "624",
+    "callingCode": "245",
+    "flag": "GW-32.png"
+  },
+  {
+    "alpha3Code": "GUY",
+    "alpha2Code": "GY",
+    "name": "Guyana",
+    "callingCodes": [
+      "592"
+    ],
+    "numericCode": "328",
+    "callingCode": "592",
+    "flag": "GY-32.png"
+  },
+  {
+    "alpha3Code": "HTI",
+    "alpha2Code": "HT",
+    "name": "Haiti",
+    "callingCodes": [
+      "509"
+    ],
+    "numericCode": "332",
+    "callingCode": "509",
+    "flag": "HT-32.png"
+  },
+  {
+    "alpha3Code": "VAT",
+    "alpha2Code": "VA",
+    "name": "Holy See",
+    "callingCodes": [
+      "379"
+    ],
+    "numericCode": "336",
+    "callingCode": "379",
+    "flag": "VA-32.png"
+  },
+  {
+    "alpha3Code": "HND",
+    "alpha2Code": "HN",
+    "name": "Honduras",
+    "callingCodes": [
+      "504"
+    ],
+    "numericCode": "340",
+    "callingCode": "504",
+    "flag": "HN-32.png"
+  },
+  {
+    "alpha3Code": "HKG",
+    "alpha2Code": "HK",
+    "name": "Hong Kong",
+    "callingCodes": [
+      "852"
+    ],
+    "numericCode": "344",
+    "callingCode": "852",
+    "flag": "HK-32.png"
+  },
+  {
+    "alpha3Code": "HUN",
+    "alpha2Code": "HU",
+    "name": "Hungary",
+    "callingCodes": [
+      "36"
+    ],
+    "numericCode": "348",
+    "callingCode": "36",
+    "flag": "HU-32.png"
+  },
+  {
+    "alpha3Code": "ISL",
+    "alpha2Code": "IS",
+    "name": "Iceland",
+    "callingCodes": [
+      "354"
+    ],
+    "numericCode": "352",
+    "callingCode": "354",
+    "flag": "IS-32.png"
+  },
+  {
+    "alpha3Code": "IND",
+    "alpha2Code": "IN",
+    "name": "India",
+    "callingCodes": [
+      "91"
+    ],
+    "numericCode": "356",
+    "callingCode": "91",
+    "flag": "IN-32.png"
+  },
+  {
+    "alpha3Code": "IDN",
+    "alpha2Code": "ID",
+    "name": "Indonesia",
+    "callingCodes": [
+      "62"
+    ],
+    "numericCode": "360",
+    "callingCode": "62",
+    "flag": "ID-32.png"
+  },
+  {
+    "alpha3Code": "CIV",
+    "alpha2Code": "CI",
+    "name": "Côte d'Ivoire",
+    "callingCodes": [
+      "225"
+    ],
+    "numericCode": "384",
+    "callingCode": "225",
+    "flag": "CI-32.png"
+  },
+  {
+    "alpha3Code": "IRN",
+    "alpha2Code": "IR",
+    "name": "Iran (Islamic Republic of)",
+    "callingCodes": [
+      "98"
+    ],
+    "numericCode": "364",
+    "callingCode": "98",
+    "flag": "IR-32.png"
+  },
+  {
+    "alpha3Code": "IRQ",
+    "alpha2Code": "IQ",
+    "name": "Iraq",
+    "callingCodes": [
+      "964"
+    ],
+    "numericCode": "368",
+    "callingCode": "964",
+    "flag": "IQ-32.png"
+  },
+  {
+    "alpha3Code": "IRL",
+    "alpha2Code": "IE",
+    "name": "Ireland",
+    "callingCodes": [
+      "353"
+    ],
+    "numericCode": "372",
+    "callingCode": "353",
+    "flag": "IE-32.png"
+  },
+  {
+    "alpha3Code": "IMN",
+    "alpha2Code": "IM",
+    "name": "Isle of Man",
+    "callingCodes": [
+      "44"
+    ],
+    "numericCode": "833",
+    "callingCode": "44",
+    "flag": "IM-32.png"
+  },
+  {
+    "alpha3Code": "ISR",
+    "alpha2Code": "IL",
+    "name": "Israel",
+    "callingCodes": [
+      "972"
+    ],
+    "numericCode": "376",
+    "callingCode": "972",
+    "flag": "IL-32.png"
+  },
+  {
+    "alpha3Code": "ITA",
+    "alpha2Code": "IT",
+    "name": "Italy",
+    "callingCodes": [
+      "39"
+    ],
+    "numericCode": "380",
+    "callingCode": "39",
+    "flag": "IT-32.png"
+  },
+  {
+    "alpha3Code": "JAM",
+    "alpha2Code": "JM",
+    "name": "Jamaica",
+    "callingCodes": [
+      "1876"
+    ],
+    "numericCode": "388",
+    "callingCode": "1876",
+    "flag": "JM-32.png"
+  },
+  {
+    "alpha3Code": "JPN",
+    "alpha2Code": "JP",
+    "name": "Japan",
+    "callingCodes": [
+      "81"
+    ],
+    "numericCode": "392",
+    "callingCode": "81",
+    "flag": "JP-32.png"
+  },
+  {
+    "alpha3Code": "JEY",
+    "alpha2Code": "JE",
+    "name": "Jersey",
+    "callingCodes": [
+      "44"
+    ],
+    "numericCode": "832",
+    "callingCode": "44",
+    "flag": "JE-32.png"
+  },
+  {
+    "alpha3Code": "JOR",
+    "alpha2Code": "JO",
+    "name": "Jordan",
+    "callingCodes": [
+      "962"
+    ],
+    "numericCode": "400",
+    "callingCode": "962",
+    "flag": "JO-32.png"
+  },
+  {
+    "alpha3Code": "KAZ",
+    "alpha2Code": "KZ",
+    "name": "Kazakhstan",
+    "callingCodes": [
+      "76",
+      "77"
+    ],
+    "numericCode": "398",
+    "callingCode": "76",
+    "flag": "KZ-32.png"
+  },
+  {
+    "alpha3Code": "KEN",
+    "alpha2Code": "KE",
+    "name": "Kenya",
+    "callingCodes": [
+      "254"
+    ],
+    "numericCode": "404",
+    "callingCode": "254",
+    "flag": "KE-32.png"
+  },
+  {
+    "alpha3Code": "KIR",
+    "alpha2Code": "KI",
+    "name": "Kiribati",
+    "callingCodes": [
+      "686"
+    ],
+    "numericCode": "296",
+    "callingCode": "686",
+    "flag": "KI-32.png"
+  },
+  {
+    "alpha3Code": "KWT",
+    "alpha2Code": "KW",
+    "name": "Kuwait",
+    "callingCodes": [
+      "965"
+    ],
+    "numericCode": "414",
+    "callingCode": "965",
+    "flag": "KW-32.png"
+  },
+  {
+    "alpha3Code": "KGZ",
+    "alpha2Code": "KG",
+    "name": "Kyrgyzstan",
+    "callingCodes": [
+      "996"
+    ],
+    "numericCode": "417",
+    "callingCode": "996",
+    "flag": "KG-32.png"
+  },
+  {
+    "alpha3Code": "LAO",
+    "alpha2Code": "LA",
+    "name": "Lao People's Democratic Republic",
+    "callingCodes": [
+      "856"
+    ],
+    "numericCode": "418",
+    "callingCode": "856",
+    "flag": "LA-32.png"
+  },
+  {
+    "alpha3Code": "LVA",
+    "alpha2Code": "LV",
+    "name": "Latvia",
+    "callingCodes": [
+      "371"
+    ],
+    "numericCode": "428",
+    "callingCode": "371",
+    "flag": "LV-32.png"
+  },
+  {
+    "alpha3Code": "LBN",
+    "alpha2Code": "LB",
+    "name": "Lebanon",
+    "callingCodes": [
+      "961"
+    ],
+    "numericCode": "422",
+    "callingCode": "961",
+    "flag": "LB-32.png"
+  },
+  {
+    "alpha3Code": "LSO",
+    "alpha2Code": "LS",
+    "name": "Lesotho",
+    "callingCodes": [
+      "266"
+    ],
+    "numericCode": "426",
+    "callingCode": "266",
+    "flag": "LS-32.png"
+  },
+  {
+    "alpha3Code": "LBR",
+    "alpha2Code": "LR",
+    "name": "Liberia",
+    "callingCodes": [
+      "231"
+    ],
+    "numericCode": "430",
+    "callingCode": "231",
+    "flag": "LR-32.png"
+  },
+  {
+    "alpha3Code": "LBY",
+    "alpha2Code": "LY",
+    "name": "Libya",
+    "callingCodes": [
+      "218"
+    ],
+    "numericCode": "434",
+    "callingCode": "218",
+    "flag": "LY-32.png"
+  },
+  {
+    "alpha3Code": "LIE",
+    "alpha2Code": "LI",
+    "name": "Liechtenstein",
+    "callingCodes": [
+      "423"
+    ],
+    "numericCode": "438",
+    "callingCode": "423",
+    "flag": "LI-32.png"
+  },
+  {
+    "alpha3Code": "LTU",
+    "alpha2Code": "LT",
+    "name": "Lithuania",
+    "callingCodes": [
+      "370"
+    ],
+    "numericCode": "440",
+    "callingCode": "370",
+    "flag": "LT-32.png"
+  },
+  {
+    "alpha3Code": "LUX",
+    "alpha2Code": "LU",
+    "name": "Luxembourg",
+    "callingCodes": [
+      "352"
+    ],
+    "numericCode": "442",
+    "callingCode": "352",
+    "flag": "LU-32.png"
+  },
+  {
+    "alpha3Code": "MAC",
+    "alpha2Code": "MO",
+    "name": "Macao",
+    "callingCodes": [
+      "853"
+    ],
+    "numericCode": "446",
+    "callingCode": "853",
+    "flag": "MO-32.png"
+  },
+  {
+    "alpha3Code": "MKD",
+    "alpha2Code": "MK",
+    "name": "Macedonia (the former Yugoslav Republic of)",
+    "callingCodes": [
+      "389"
+    ],
+    "numericCode": "807",
+    "callingCode": "389",
+    "flag": "MK-32.png"
+  },
+  {
+    "alpha3Code": "MDG",
+    "alpha2Code": "MG",
+    "name": "Madagascar",
+    "callingCodes": [
+      "261"
+    ],
+    "numericCode": "450",
+    "callingCode": "261",
+    "flag": "MG-32.png"
+  },
+  {
+    "alpha3Code": "MWI",
+    "alpha2Code": "MW",
+    "name": "Malawi",
+    "callingCodes": [
+      "265"
+    ],
+    "numericCode": "454",
+    "callingCode": "265",
+    "flag": "MW-32.png"
+  },
+  {
+    "alpha3Code": "MYS",
+    "alpha2Code": "MY",
+    "name": "Malaysia",
+    "callingCodes": [
+      "60"
+    ],
+    "numericCode": "458",
+    "callingCode": "60",
+    "flag": "MY-32.png"
+  },
+  {
+    "alpha3Code": "MDV",
+    "alpha2Code": "MV",
+    "name": "Maldives",
+    "callingCodes": [
+      "960"
+    ],
+    "numericCode": "462",
+    "callingCode": "960",
+    "flag": "MV-32.png"
+  },
+  {
+    "alpha3Code": "MLI",
+    "alpha2Code": "ML",
+    "name": "Mali",
+    "callingCodes": [
+      "223"
+    ],
+    "numericCode": "466",
+    "callingCode": "223",
+    "flag": "ML-32.png"
+  },
+  {
+    "alpha3Code": "MLT",
+    "alpha2Code": "MT",
+    "name": "Malta",
+    "callingCodes": [
+      "356"
+    ],
+    "numericCode": "470",
+    "callingCode": "356",
+    "flag": "MT-32.png"
+  },
+  {
+    "alpha3Code": "MHL",
+    "alpha2Code": "MH",
+    "name": "Marshall Islands",
+    "callingCodes": [
+      "692"
+    ],
+    "numericCode": "584",
+    "callingCode": "692",
+    "flag": "MH-32.png"
+  },
+  {
+    "alpha3Code": "MTQ",
+    "alpha2Code": "MQ",
+    "name": "Martinique",
+    "callingCodes": [
+      "596"
+    ],
+    "numericCode": "474",
+    "callingCode": "596",
+    "flag": "MQ-32.png"
+  },
+  {
+    "alpha3Code": "MRT",
+    "alpha2Code": "MR",
+    "name": "Mauritania",
+    "callingCodes": [
+      "222"
+    ],
+    "numericCode": "478",
+    "callingCode": "222",
+    "flag": "MR-32.png"
+  },
+  {
+    "alpha3Code": "MUS",
+    "alpha2Code": "MU",
+    "name": "Mauritius",
+    "callingCodes": [
+      "230"
+    ],
+    "numericCode": "480",
+    "callingCode": "230",
+    "flag": "MU-32.png"
+  },
+  {
+    "alpha3Code": "MYT",
+    "alpha2Code": "YT",
+    "name": "Mayotte",
+    "callingCodes": [
+      "262"
+    ],
+    "numericCode": "175",
+    "callingCode": "262",
+    "flag": "YT-32.png"
+  },
+  {
+    "alpha3Code": "MEX",
+    "alpha2Code": "MX",
+    "name": "Mexico",
+    "callingCodes": [
+      "52"
+    ],
+    "numericCode": "484",
+    "callingCode": "52",
+    "flag": "MX-32.png"
+  },
+  {
+    "alpha3Code": "FSM",
+    "alpha2Code": "FM",
+    "name": "Micronesia (Federated States of)",
+    "callingCodes": [
+      "691"
+    ],
+    "numericCode": "583",
+    "callingCode": "691",
+    "flag": "FM-32.png"
+  },
+  {
+    "alpha3Code": "MDA",
+    "alpha2Code": "MD",
+    "name": "Moldova (Republic of)",
+    "callingCodes": [
+      "373"
+    ],
+    "numericCode": "498",
+    "callingCode": "373",
+    "flag": "MD-32.png"
+  },
+  {
+    "alpha3Code": "MCO",
+    "alpha2Code": "MC",
+    "name": "Monaco",
+    "callingCodes": [
+      "377"
+    ],
+    "numericCode": "492",
+    "callingCode": "377",
+    "flag": "MC-32.png"
+  },
+  {
+    "alpha3Code": "MNG",
+    "alpha2Code": "MN",
+    "name": "Mongolia",
+    "callingCodes": [
+      "976"
+    ],
+    "numericCode": "496",
+    "callingCode": "976",
+    "flag": "MN-32.png"
+  },
+  {
+    "alpha3Code": "MNE",
+    "alpha2Code": "ME",
+    "name": "Montenegro",
+    "callingCodes": [
+      "382"
+    ],
+    "numericCode": "499",
+    "callingCode": "382",
+    "flag": "ME-32.png"
+  },
+  {
+    "alpha3Code": "MSR",
+    "alpha2Code": "MS",
+    "name": "Montserrat",
+    "callingCodes": [
+      "1664"
+    ],
+    "numericCode": "500",
+    "callingCode": "1664",
+    "flag": "MS-32.png"
+  },
+  {
+    "alpha3Code": "MAR",
+    "alpha2Code": "MA",
+    "name": "Morocco",
+    "callingCodes": [
+      "212"
+    ],
+    "numericCode": "504",
+    "callingCode": "212",
+    "flag": "MA-32.png"
+  },
+  {
+    "alpha3Code": "MOZ",
+    "alpha2Code": "MZ",
+    "name": "Mozambique",
+    "callingCodes": [
+      "258"
+    ],
+    "numericCode": "508",
+    "callingCode": "258",
+    "flag": "MZ-32.png"
+  },
+  {
+    "alpha3Code": "MMR",
+    "alpha2Code": "MM",
+    "name": "Myanmar",
+    "callingCodes": [
+      "95"
+    ],
+    "numericCode": "104",
+    "callingCode": "95",
+    "flag": "MM-32.png"
+  },
+  {
+    "alpha3Code": "NAM",
+    "alpha2Code": "NA",
+    "name": "Namibia",
+    "callingCodes": [
+      "264"
+    ],
+    "numericCode": "516",
+    "callingCode": "264",
+    "flag": "NA-32.png"
+  },
+  {
+    "alpha3Code": "NRU",
+    "alpha2Code": "NR",
+    "name": "Nauru",
+    "callingCodes": [
+      "674"
+    ],
+    "numericCode": "520",
+    "callingCode": "674",
+    "flag": "NR-32.png"
+  },
+  {
+    "alpha3Code": "NPL",
+    "alpha2Code": "NP",
+    "name": "Nepal",
+    "callingCodes": [
+      "977"
+    ],
+    "numericCode": "524",
+    "callingCode": "977",
+    "flag": "NP-32.png"
+  },
+  {
+    "alpha3Code": "NLD",
+    "alpha2Code": "NL",
+    "name": "Netherlands",
+    "callingCodes": [
+      "31"
+    ],
+    "numericCode": "528",
+    "callingCode": "31",
+    "flag": "NL-32.png"
+  },
+  {
+    "alpha3Code": "NCL",
+    "alpha2Code": "NC",
+    "name": "New Caledonia",
+    "callingCodes": [
+      "687"
+    ],
+    "numericCode": "540",
+    "callingCode": "687",
+    "flag": "NC-32.png"
+  },
+  {
+    "alpha3Code": "NZL",
+    "alpha2Code": "NZ",
+    "name": "New Zealand",
+    "callingCodes": [
+      "64"
+    ],
+    "numericCode": "554",
+    "callingCode": "64",
+    "flag": "NZ-32.png"
+  },
+  {
+    "alpha3Code": "NIC",
+    "alpha2Code": "NI",
+    "name": "Nicaragua",
+    "callingCodes": [
+      "505"
+    ],
+    "numericCode": "558",
+    "callingCode": "505",
+    "flag": "NI-32.png"
+  },
+  {
+    "alpha3Code": "NER",
+    "alpha2Code": "NE",
+    "name": "Niger",
+    "callingCodes": [
+      "227"
+    ],
+    "numericCode": "562",
+    "callingCode": "227",
+    "flag": "NE-32.png"
+  },
+  {
+    "alpha3Code": "NGA",
+    "alpha2Code": "NG",
+    "name": "Nigeria",
+    "callingCodes": [
+      "234"
+    ],
+    "numericCode": "566",
+    "callingCode": "234",
+    "flag": "NG-32.png"
+  },
+  {
+    "alpha3Code": "NIU",
+    "alpha2Code": "NU",
+    "name": "Niue",
+    "callingCodes": [
+      "683"
+    ],
+    "numericCode": "570",
+    "callingCode": "683",
+    "flag": "NU-32.png"
+  },
+  {
+    "alpha3Code": "NFK",
+    "alpha2Code": "NF",
+    "name": "Norfolk Island",
+    "callingCodes": [
+      "672"
+    ],
+    "numericCode": "574",
+    "callingCode": "672",
+    "flag": "NF-32.png"
+  },
+  {
+    "alpha3Code": "PRK",
+    "alpha2Code": "KP",
+    "name": "Korea (Democratic People's Republic of)",
+    "callingCodes": [
+      "850"
+    ],
+    "numericCode": "408",
+    "callingCode": "850",
+    "flag": "KP-32.png"
+  },
+  {
+    "alpha3Code": "MNP",
+    "alpha2Code": "MP",
+    "name": "Northern Mariana Islands",
+    "callingCodes": [
+      "1670"
+    ],
+    "numericCode": "580",
+    "callingCode": "1670",
+    "flag": "MP-32.png"
+  },
+  {
+    "alpha3Code": "NOR",
+    "alpha2Code": "NO",
+    "name": "Norway",
+    "callingCodes": [
+      "47"
+    ],
+    "numericCode": "578",
+    "callingCode": "47",
+    "flag": "NO-32.png"
+  },
+  {
+    "alpha3Code": "OMN",
+    "alpha2Code": "OM",
+    "name": "Oman",
+    "callingCodes": [
+      "968"
+    ],
+    "numericCode": "512",
+    "callingCode": "968",
+    "flag": "OM-32.png"
+  },
+  {
+    "alpha3Code": "PAK",
+    "alpha2Code": "PK",
+    "name": "Pakistan",
+    "callingCodes": [
+      "92"
+    ],
+    "numericCode": "586",
+    "callingCode": "92",
+    "flag": "PK-32.png"
+  },
+  {
+    "alpha3Code": "PLW",
+    "alpha2Code": "PW",
+    "name": "Palau",
+    "callingCodes": [
+      "680"
+    ],
+    "numericCode": "585",
+    "callingCode": "680",
+    "flag": "PW-32.png"
+  },
+  {
+    "alpha3Code": "PSE",
+    "alpha2Code": "PS",
+    "name": "Palestine, State of",
+    "callingCodes": [
+      "970"
+    ],
+    "numericCode": "275",
+    "callingCode": "970",
+    "flag": "PS-32.png"
+  },
+  {
+    "alpha3Code": "PAN",
+    "alpha2Code": "PA",
+    "name": "Panama",
+    "callingCodes": [
+      "507"
+    ],
+    "numericCode": "591",
+    "callingCode": "507",
+    "flag": "PA-32.png"
+  },
+  {
+    "alpha3Code": "PNG",
+    "alpha2Code": "PG",
+    "name": "Papua New Guinea",
+    "callingCodes": [
+      "675"
+    ],
+    "numericCode": "598",
+    "callingCode": "675",
+    "flag": "PG-32.png"
+  },
+  {
+    "alpha3Code": "PRY",
+    "alpha2Code": "PY",
+    "name": "Paraguay",
+    "callingCodes": [
+      "595"
+    ],
+    "numericCode": "600",
+    "callingCode": "595",
+    "flag": "PY-32.png"
+  },
+  {
+    "alpha3Code": "PER",
+    "alpha2Code": "PE",
+    "name": "Peru",
+    "callingCodes": [
+      "51"
+    ],
+    "numericCode": "604",
+    "callingCode": "51",
+    "flag": "PE-32.png"
+  },
+  {
+    "alpha3Code": "PHL",
+    "alpha2Code": "PH",
+    "name": "Philippines",
+    "callingCodes": [
+      "63"
+    ],
+    "numericCode": "608",
+    "callingCode": "63",
+    "flag": "PH-32.png"
+  },
+  {
+    "alpha3Code": "PCN",
+    "alpha2Code": "PN",
+    "name": "Pitcairn",
+    "callingCodes": [
+      "64"
+    ],
+    "numericCode": "612",
+    "callingCode": "64",
+    "flag": "PN-32.png"
+  },
+  {
+    "alpha3Code": "POL",
+    "alpha2Code": "PL",
+    "name": "Poland",
+    "callingCodes": [
+      "48"
+    ],
+    "numericCode": "616",
+    "callingCode": "48",
+    "flag": "PL-32.png"
+  },
+  {
+    "alpha3Code": "PRT",
+    "alpha2Code": "PT",
+    "name": "Portugal",
+    "callingCodes": [
+      "351"
+    ],
+    "numericCode": "620",
+    "callingCode": "351",
+    "flag": "PT-32.png"
+  },
+  {
+    "alpha3Code": "PRI",
+    "alpha2Code": "PR",
+    "name": "Puerto Rico",
+    "callingCodes": [
+      "1787",
+      "1939"
+    ],
+    "numericCode": "630",
+    "callingCode": "1787",
+    "flag": "PR-32.png"
+  },
+  {
+    "alpha3Code": "QAT",
+    "alpha2Code": "QA",
+    "name": "Qatar",
+    "callingCodes": [
+      "974"
+    ],
+    "numericCode": "634",
+    "callingCode": "974",
+    "flag": "QA-32.png"
+  },
+  {
+    "alpha3Code": "KOS",
+    "alpha2Code": "XK",
+    "name": "Republic of Kosovo",
+    "callingCodes": [
+      "383"
+    ],
+    "numericCode": "",
+    "callingCode": "383",
+    "flag": "https://restcountries.eu/data/kos.svg"
+  },
+  {
+    "alpha3Code": "REU",
+    "alpha2Code": "RE",
+    "name": "Réunion",
+    "callingCodes": [
+      "262"
+    ],
+    "numericCode": "638",
+    "callingCode": "262",
+    "flag": "RE-32.png"
+  },
+  {
+    "alpha3Code": "ROU",
+    "alpha2Code": "RO",
+    "name": "Romania",
+    "callingCodes": [
+      "40"
+    ],
+    "numericCode": "642",
+    "callingCode": "40",
+    "flag": "RO-32.png"
+  },
+  {
+    "alpha3Code": "RUS",
+    "alpha2Code": "RU",
+    "name": "Russian Federation",
+    "callingCodes": [
+      "7"
+    ],
+    "numericCode": "643",
+    "callingCode": "7",
+    "flag": "RU-32.png"
+  },
+  {
+    "alpha3Code": "RWA",
+    "alpha2Code": "RW",
+    "name": "Rwanda",
+    "callingCodes": [
+      "250"
+    ],
+    "numericCode": "646",
+    "callingCode": "250",
+    "flag": "RW-32.png"
+  },
+  {
+    "alpha3Code": "BLM",
+    "alpha2Code": "BL",
+    "name": "Saint Barthélemy",
+    "callingCodes": [
+      "590"
+    ],
+    "numericCode": "652",
+    "callingCode": "590",
+    "flag": "BL-32.png"
+  },
+  {
+    "alpha3Code": "SHN",
+    "alpha2Code": "SH",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "callingCodes": [
+      "290"
+    ],
+    "numericCode": "654",
+    "callingCode": "290",
+    "flag": "SH-32.png"
+  },
+  {
+    "alpha3Code": "KNA",
+    "alpha2Code": "KN",
+    "name": "Saint Kitts and Nevis",
+    "callingCodes": [
+      "1869"
+    ],
+    "numericCode": "659",
+    "callingCode": "1869",
+    "flag": "KN-32.png"
+  },
+  {
+    "alpha3Code": "LCA",
+    "alpha2Code": "LC",
+    "name": "Saint Lucia",
+    "callingCodes": [
+      "1758"
+    ],
+    "numericCode": "662",
+    "callingCode": "1758",
+    "flag": "LC-32.png"
+  },
+  {
+    "alpha3Code": "MAF",
+    "alpha2Code": "MF",
+    "name": "Saint Martin (French part)",
+    "callingCodes": [
+      "590"
+    ],
+    "numericCode": "663",
+    "callingCode": "590",
+    "flag": "MF-32.png"
+  },
+  {
+    "alpha3Code": "SPM",
+    "alpha2Code": "PM",
+    "name": "Saint Pierre and Miquelon",
+    "callingCodes": [
+      "508"
+    ],
+    "numericCode": "666",
+    "callingCode": "508",
+    "flag": "PM-32.png"
+  },
+  {
+    "alpha3Code": "VCT",
+    "alpha2Code": "VC",
+    "name": "Saint Vincent and the Grenadines",
+    "callingCodes": [
+      "1784"
+    ],
+    "numericCode": "670",
+    "callingCode": "1784",
+    "flag": "VC-32.png"
+  },
+  {
+    "alpha3Code": "WSM",
+    "alpha2Code": "WS",
+    "name": "Samoa",
+    "callingCodes": [
+      "685"
+    ],
+    "numericCode": "882",
+    "callingCode": "685",
+    "flag": "WS-32.png"
+  },
+  {
+    "alpha3Code": "SMR",
+    "alpha2Code": "SM",
+    "name": "San Marino",
+    "callingCodes": [
+      "378"
+    ],
+    "numericCode": "674",
+    "callingCode": "378",
+    "flag": "SM-32.png"
+  },
+  {
+    "alpha3Code": "STP",
+    "alpha2Code": "ST",
+    "name": "Sao Tome and Principe",
+    "callingCodes": [
+      "239"
+    ],
+    "numericCode": "678",
+    "callingCode": "239",
+    "flag": "ST-32.png"
+  },
+  {
+    "alpha3Code": "SAU",
+    "alpha2Code": "SA",
+    "name": "Saudi Arabia",
+    "callingCodes": [
+      "966"
+    ],
+    "numericCode": "682",
+    "callingCode": "966",
+    "flag": "SA-32.png"
+  },
+  {
+    "alpha3Code": "SEN",
+    "alpha2Code": "SN",
+    "name": "Senegal",
+    "callingCodes": [
+      "221"
+    ],
+    "numericCode": "686",
+    "callingCode": "221",
+    "flag": "SN-32.png"
+  },
+  {
+    "alpha3Code": "SRB",
+    "alpha2Code": "RS",
+    "name": "Serbia",
+    "callingCodes": [
+      "381"
+    ],
+    "numericCode": "688",
+    "callingCode": "381",
+    "flag": "RS-32.png"
+  },
+  {
+    "alpha3Code": "SYC",
+    "alpha2Code": "SC",
+    "name": "Seychelles",
+    "callingCodes": [
+      "248"
+    ],
+    "numericCode": "690",
+    "callingCode": "248",
+    "flag": "SC-32.png"
+  },
+  {
+    "alpha3Code": "SLE",
+    "alpha2Code": "SL",
+    "name": "Sierra Leone",
+    "callingCodes": [
+      "232"
+    ],
+    "numericCode": "694",
+    "callingCode": "232",
+    "flag": "SL-32.png"
+  },
+  {
+    "alpha3Code": "SGP",
+    "alpha2Code": "SG",
+    "name": "Singapore",
+    "callingCodes": [
+      "65"
+    ],
+    "numericCode": "702",
+    "callingCode": "65",
+    "flag": "SG-32.png"
+  },
+  {
+    "alpha3Code": "SXM",
+    "alpha2Code": "SX",
+    "name": "Sint Maarten (Dutch part)",
+    "callingCodes": [
+      "1721"
+    ],
+    "numericCode": "534",
+    "callingCode": "1721",
+    "flag": "SX-32.png"
+  },
+  {
+    "alpha3Code": "SVK",
+    "alpha2Code": "SK",
+    "name": "Slovakia",
+    "callingCodes": [
+      "421"
+    ],
+    "numericCode": "703",
+    "callingCode": "421",
+    "flag": "SK-32.png"
+  },
+  {
+    "alpha3Code": "SVN",
+    "alpha2Code": "SI",
+    "name": "Slovenia",
+    "callingCodes": [
+      "386"
+    ],
+    "numericCode": "705",
+    "callingCode": "386",
+    "flag": "SI-32.png"
+  },
+  {
+    "alpha3Code": "SLB",
+    "alpha2Code": "SB",
+    "name": "Solomon Islands",
+    "callingCodes": [
+      "677"
+    ],
+    "numericCode": "090",
+    "callingCode": "677",
+    "flag": "SB-32.png"
+  },
+  {
+    "alpha3Code": "SOM",
+    "alpha2Code": "SO",
+    "name": "Somalia",
+    "callingCodes": [
+      "252"
+    ],
+    "numericCode": "706",
+    "callingCode": "252",
+    "flag": "SO-32.png"
+  },
+  {
+    "alpha3Code": "ZAF",
+    "alpha2Code": "ZA",
+    "name": "South Africa",
+    "callingCodes": [
+      "27"
+    ],
+    "numericCode": "710",
+    "callingCode": "27",
+    "flag": "ZA-32.png"
+  },
+  {
+    "alpha3Code": "SGS",
+    "alpha2Code": "GS",
+    "name": "South Georgia and the South Sandwich Islands",
+    "callingCodes": [
+      "500"
+    ],
+    "numericCode": "239",
+    "callingCode": "500",
+    "flag": "GS-32.png"
+  },
+  {
+    "alpha3Code": "KOR",
+    "alpha2Code": "KR",
+    "name": "Korea (Republic of)",
+    "callingCodes": [
+      "82"
+    ],
+    "numericCode": "410",
+    "callingCode": "82",
+    "flag": "KR-32.png"
+  },
+  {
+    "alpha3Code": "SSD",
+    "alpha2Code": "SS",
+    "name": "South Sudan",
+    "callingCodes": [
+      "211"
+    ],
+    "numericCode": "728",
+    "callingCode": "211",
+    "flag": "SS-32.png"
+  },
+  {
+    "alpha3Code": "ESP",
+    "alpha2Code": "ES",
+    "name": "Spain",
+    "callingCodes": [
+      "34"
+    ],
+    "numericCode": "724",
+    "callingCode": "34",
+    "flag": "ES-32.png"
+  },
+  {
+    "alpha3Code": "LKA",
+    "alpha2Code": "LK",
+    "name": "Sri Lanka",
+    "callingCodes": [
+      "94"
+    ],
+    "numericCode": "144",
+    "callingCode": "94",
+    "flag": "LK-32.png"
+  },
+  {
+    "alpha3Code": "SDN",
+    "alpha2Code": "SD",
+    "name": "Sudan",
+    "callingCodes": [
+      "249"
+    ],
+    "numericCode": "729",
+    "callingCode": "249",
+    "flag": "SD-32.png"
+  },
+  {
+    "alpha3Code": "SUR",
+    "alpha2Code": "SR",
+    "name": "Suriname",
+    "callingCodes": [
+      "597"
+    ],
+    "numericCode": "740",
+    "callingCode": "597",
+    "flag": "SR-32.png"
+  },
+  {
+    "alpha3Code": "SWZ",
+    "alpha2Code": "SZ",
+    "name": "Swaziland",
+    "callingCodes": [
+      "268"
+    ],
+    "numericCode": "748",
+    "callingCode": "268",
+    "flag": "SZ-32.png"
+  },
+  {
+    "alpha3Code": "SWE",
+    "alpha2Code": "SE",
+    "name": "Sweden",
+    "callingCodes": [
+      "46"
+    ],
+    "numericCode": "752",
+    "callingCode": "46",
+    "flag": "SE-32.png"
+  },
+  {
+    "alpha3Code": "CHE",
+    "alpha2Code": "CH",
+    "name": "Switzerland",
+    "callingCodes": [
+      "41"
+    ],
+    "numericCode": "756",
+    "callingCode": "41",
+    "flag": "CH-32.png"
+  },
+  {
+    "alpha3Code": "SYR",
+    "alpha2Code": "SY",
+    "name": "Syrian Arab Republic",
+    "callingCodes": [
+      "963"
+    ],
+    "numericCode": "760",
+    "callingCode": "963",
+    "flag": "SY-32.png"
+  },
+  {
+    "alpha3Code": "TWN",
+    "alpha2Code": "TW",
+    "name": "Taiwan",
+    "callingCodes": [
+      "886"
+    ],
+    "numericCode": "158",
+    "callingCode": "886",
+    "flag": "TW-32.png"
+  },
+  {
+    "alpha3Code": "TJK",
+    "alpha2Code": "TJ",
+    "name": "Tajikistan",
+    "callingCodes": [
+      "992"
+    ],
+    "numericCode": "762",
+    "callingCode": "992",
+    "flag": "TJ-32.png"
+  },
+  {
+    "alpha3Code": "TZA",
+    "alpha2Code": "TZ",
+    "name": "Tanzania, United Republic of",
+    "callingCodes": [
+      "255"
+    ],
+    "numericCode": "834",
+    "callingCode": "255",
+    "flag": "TZ-32.png"
+  },
+  {
+    "alpha3Code": "THA",
+    "alpha2Code": "TH",
+    "name": "Thailand",
+    "callingCodes": [
+      "66"
+    ],
+    "numericCode": "764",
+    "callingCode": "66",
+    "flag": "TH-32.png"
+  },
+  {
+    "alpha3Code": "TLS",
+    "alpha2Code": "TL",
+    "name": "Timor-Leste",
+    "callingCodes": [
+      "670"
+    ],
+    "numericCode": "626",
+    "callingCode": "670",
+    "flag": "TL-32.png"
+  },
+  {
+    "alpha3Code": "TGO",
+    "alpha2Code": "TG",
+    "name": "Togo",
+    "callingCodes": [
+      "228"
+    ],
+    "numericCode": "768",
+    "callingCode": "228",
+    "flag": "TG-32.png"
+  },
+  {
+    "alpha3Code": "TKL",
+    "alpha2Code": "TK",
+    "name": "Tokelau",
+    "callingCodes": [
+      "690"
+    ],
+    "numericCode": "772",
+    "callingCode": "690",
+    "flag": "TK-32.png"
+  },
+  {
+    "alpha3Code": "TON",
+    "alpha2Code": "TO",
+    "name": "Tonga",
+    "callingCodes": [
+      "676"
+    ],
+    "numericCode": "776",
+    "callingCode": "676",
+    "flag": "TO-32.png"
+  },
+  {
+    "alpha3Code": "TTO",
+    "alpha2Code": "TT",
+    "name": "Trinidad and Tobago",
+    "callingCodes": [
+      "1868"
+    ],
+    "numericCode": "780",
+    "callingCode": "1868",
+    "flag": "TT-32.png"
+  },
+  {
+    "alpha3Code": "TUN",
+    "alpha2Code": "TN",
+    "name": "Tunisia",
+    "callingCodes": [
+      "216"
+    ],
+    "numericCode": "788",
+    "callingCode": "216",
+    "flag": "TN-32.png"
+  },
+  {
+    "alpha3Code": "TUR",
+    "alpha2Code": "TR",
+    "name": "Turkey",
+    "callingCodes": [
+      "90"
+    ],
+    "numericCode": "792",
+    "callingCode": "90",
+    "flag": "TR-32.png"
+  },
+  {
+    "alpha3Code": "TKM",
+    "alpha2Code": "TM",
+    "name": "Turkmenistan",
+    "callingCodes": [
+      "993"
+    ],
+    "numericCode": "795",
+    "callingCode": "993",
+    "flag": "TM-32.png"
+  },
+  {
+    "alpha3Code": "TCA",
+    "alpha2Code": "TC",
+    "name": "Turks and Caicos Islands",
+    "callingCodes": [
+      "1649"
+    ],
+    "numericCode": "796",
+    "callingCode": "1649",
+    "flag": "TC-32.png"
+  },
+  {
+    "alpha3Code": "TUV",
+    "alpha2Code": "TV",
+    "name": "Tuvalu",
+    "callingCodes": [
+      "688"
+    ],
+    "numericCode": "798",
+    "callingCode": "688",
+    "flag": "TV-32.png"
+  },
+  {
+    "alpha3Code": "UGA",
+    "alpha2Code": "UG",
+    "name": "Uganda",
+    "callingCodes": [
+      "256"
+    ],
+    "numericCode": "800",
+    "callingCode": "256",
+    "flag": "UG-32.png"
+  },
+  {
+    "alpha3Code": "UKR",
+    "alpha2Code": "UA",
+    "name": "Ukraine",
+    "callingCodes": [
+      "380"
+    ],
+    "numericCode": "804",
+    "callingCode": "380",
+    "flag": "UA-32.png"
+  },
+  {
+    "alpha3Code": "ARE",
+    "alpha2Code": "AE",
+    "name": "United Arab Emirates",
+    "callingCodes": [
+      "971"
+    ],
+    "numericCode": "784",
+    "callingCode": "971",
+    "flag": "AE-32.png"
+  },
+  {
+    "alpha3Code": "GBR",
+    "alpha2Code": "GB",
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "callingCodes": [
+      "44"
+    ],
+    "numericCode": "826",
+    "callingCode": "44",
+    "flag": "GB-32.png"
+  },
+  {
+    "alpha3Code": "USA",
+    "alpha2Code": "US",
+    "name": "United States of America",
+    "callingCodes": [
+      "1"
+    ],
+    "numericCode": "840",
+    "callingCode": "1",
+    "flag": "US-32.png"
+  },
+  {
+    "alpha3Code": "UMI",
+    "alpha2Code": "UM",
+    "name": "United States Minor Outlying Islands",
+    "callingCodes": [
+                     "699"
+                     ],
+    "numericCode": "581",
+    "callingCode": "699",
+    "flag": "UM-32.png"
+  },
+  {
+    "alpha3Code": "URY",
+    "alpha2Code": "UY",
+    "name": "Uruguay",
+    "callingCodes": [
+      "598"
+    ],
+    "numericCode": "858",
+    "callingCode": "598",
+    "flag": "UY-32.png"
+  },
+  {
+    "alpha3Code": "UZB",
+    "alpha2Code": "UZ",
+    "name": "Uzbekistan",
+    "callingCodes": [
+      "998"
+    ],
+    "numericCode": "860",
+    "callingCode": "998",
+    "flag": "UZ-32.png"
+  },
+  {
+    "alpha3Code": "VUT",
+    "alpha2Code": "VU",
+    "name": "Vanuatu",
+    "callingCodes": [
+      "678"
+    ],
+    "numericCode": "548",
+    "callingCode": "678",
+    "flag": "VU-32.png"
+  },
+  {
+    "alpha3Code": "VEN",
+    "alpha2Code": "VE",
+    "name": "Venezuela (Bolivarian Republic of)",
+    "callingCodes": [
+      "58"
+    ],
+    "numericCode": "862",
+    "callingCode": "58",
+    "flag": "VE-32.png"
+  },
+  {
+    "alpha3Code": "VNM",
+    "alpha2Code": "VN",
+    "name": "Viet Nam",
+    "callingCodes": [
+      "84"
+    ],
+    "numericCode": "704",
+    "callingCode": "84",
+    "flag": "VN-32.png"
+  },
+  {
+    "alpha3Code": "WLF",
+    "alpha2Code": "WF",
+    "name": "Wallis and Futuna",
+    "callingCodes": [
+      "681"
+    ],
+    "numericCode": "876",
+    "callingCode": "681",
+    "flag": "WF-32.png"
+  },
+  {
+    "alpha3Code": "ESH",
+    "alpha2Code": "EH",
+    "name": "Western Sahara",
+    "callingCodes": [
+      "212"
+    ],
+    "numericCode": "732",
+    "callingCode": "212",
+    "flag": "EH-32.png"
+  },
+  {
+    "alpha3Code": "YEM",
+    "alpha2Code": "YE",
+    "name": "Yemen",
+    "callingCodes": [
+      "967"
+    ],
+    "numericCode": "887",
+    "callingCode": "967",
+    "flag": "YE-32.png"
+  },
+  {
+    "alpha3Code": "ZMB",
+    "alpha2Code": "ZM",
+    "name": "Zambia",
+    "callingCodes": [
+      "260"
+    ],
+    "numericCode": "894",
+    "callingCode": "260",
+    "flag": "ZM-32.png"
+  },
+  {
+    "alpha3Code": "ZWE",
+    "alpha2Code": "ZW",
+    "name": "Zimbabwe",
+    "callingCodes": [
+      "263"
+    ],
+    "numericCode": "716",
+    "callingCode": "263",
+    "flag": "ZW-32.png"
+  }
+]
