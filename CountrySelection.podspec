@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'CountrySelection'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'Country Selection.'
  
   s.description      = <<-DESC
@@ -14,6 +14,7 @@ Country Selection Pod
 s.swift_version = "5.1"
  
   s.ios.deployment_target = '13.0'
-  s.source_files = ['CountrySelectionPod/Country.swift', 'CountrySelectionPod/CountrySelection.swift', 'CountrySelectionPod/Countries.json', 'CountrySelectionPod/Assets.xcassets', 'CountrySelectionPod/AppDelegate.swift', 'CountrySelectionPod/SceneDelegate.swift']
+  s.source_files = ['CountrySelectionPod/Country.swift', 'CountrySelectionPod/CountrySelection.swift']
+  s.resources = ['CountrySelectionPod/Assets.xcassets', 'CountrySelectionPod/Countries.json']
  
 end

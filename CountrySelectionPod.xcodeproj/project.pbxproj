@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		CA0043BA234B5CDE00C3AE0A /* Countries.json in Resources */ = {isa = PBXBuildFile; fileRef = CA0043B9234B5CDE00C3AE0A /* Countries.json */; };
+		CA70424E234C79C800C145F6 /* ExampleVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA70424D234C79C800C145F6 /* ExampleVC.swift */; };
 		CAF9DB702347800C00F2257B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAF9DB6F2347800C00F2257B /* AppDelegate.swift */; };
 		CAF9DB722347800C00F2257B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAF9DB712347800C00F2257B /* SceneDelegate.swift */; };
 		CAF9DB742347800C00F2257B /* CountrySelection.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAF9DB732347800C00F2257B /* CountrySelection.swift */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		CA0043B9234B5CDE00C3AE0A /* Countries.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Countries.json; sourceTree = "<group>"; };
+		CA70424D234C79C800C145F6 /* ExampleVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleVC.swift; sourceTree = "<group>"; };
 		CAF9DB6C2347800C00F2257B /* CountrySelectionPod.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CountrySelectionPod.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CAF9DB6F2347800C00F2257B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CAF9DB712347800C00F2257B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -37,6 +39,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		CA70424C234C79B400C145F6 /* Example */ = {
+			isa = PBXGroup;
+			children = (
+				CA70424D234C79C800C145F6 /* ExampleVC.swift */,
+			);
+			path = Example;
+			sourceTree = "<group>";
+		};
 		CAF9DB632347800C00F2257B = {
 			isa = PBXGroup;
 			children = (
@@ -56,6 +66,7 @@
 		CAF9DB6E2347800C00F2257B /* CountrySelectionPod */ = {
 			isa = PBXGroup;
 			children = (
+				CA70424C234C79B400C145F6 /* Example */,
 				CA0043B9234B5CDE00C3AE0A /* Countries.json */,
 				CAF9DB6F2347800C00F2257B /* AppDelegate.swift */,
 				CAF9DB712347800C00F2257B /* SceneDelegate.swift */,
@@ -140,6 +151,7 @@
 				CAF9DB842347878300F2257B /* Country.swift in Sources */,
 				CAF9DB742347800C00F2257B /* CountrySelection.swift in Sources */,
 				CAF9DB702347800C00F2257B /* AppDelegate.swift in Sources */,
+				CA70424E234C79C800C145F6 /* ExampleVC.swift in Sources */,
 				CAF9DB722347800C00F2257B /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
